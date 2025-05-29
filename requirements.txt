@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+llama-index
+llama-index-llms-anthropic
+llama-index-embeddings-huggingface
